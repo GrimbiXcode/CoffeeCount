@@ -1,0 +1,20 @@
+C:\Users\mmezdgr\documents\visual studio 2010\Projects\CoffeeCount\CoffeeCount\bin\Release\CoffeeCount.exe.config
+C:\Users\mmezdgr\documents\visual studio 2010\Projects\CoffeeCount\CoffeeCount\bin\Release\CoffeeCount.exe
+C:\Users\mmezdgr\documents\visual studio 2010\Projects\CoffeeCount\CoffeeCount\bin\Release\CoffeeCount.pdb
+C:\Users\mmezdgr\documents\visual studio 2010\Projects\CoffeeCount\CoffeeCount\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mmezdgr\documents\visual studio 2010\Projects\CoffeeCount\CoffeeCount\obj\x86\Release\CoffeeCount.Home.resources
+C:\Users\mmezdgr\documents\visual studio 2010\Projects\CoffeeCount\CoffeeCount\obj\x86\Release\CoffeeCount.Properties.Resources.resources
+C:\Users\mmezdgr\documents\visual studio 2010\Projects\CoffeeCount\CoffeeCount\obj\x86\Release\CoffeeCount.Settings.resources
+C:\Users\mmezdgr\documents\visual studio 2010\Projects\CoffeeCount\CoffeeCount\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mmezdgr\documents\visual studio 2010\Projects\CoffeeCount\CoffeeCount\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mmezdgr\documents\visual studio 2010\Projects\CoffeeCount\CoffeeCount\obj\x86\Release\CoffeeCount.exe
+C:\Users\mmezdgr\documents\visual studio 2010\Projects\CoffeeCount\CoffeeCount\obj\x86\Release\CoffeeCount.pdb
+H:\Lehrmittel\Visual\CoffeeCount\CoffeeCount\CoffeeCount\bin\Release\CoffeeCount.exe.config
+H:\Lehrmittel\Visual\CoffeeCount\CoffeeCount\CoffeeCount\obj\x86\Release\CoffeeCount.exe
+H:\Lehrmittel\Visual\CoffeeCount\CoffeeCount\CoffeeCount\obj\x86\Release\CoffeeCount.pdb
+H:\Lehrmittel\Visual\CoffeeCount\CoffeeCount\CoffeeCount\bin\Release\CoffeeCount.exe
+H:\Lehrmittel\Visual\CoffeeCount\CoffeeCount\CoffeeCount\bin\Release\CoffeeCount.pdb
+H:\Lehrmittel\Visual\CoffeeCount\CoffeeCount\CoffeeCount\obj\x86\Release\CoffeeCount.Home.resources
+H:\Lehrmittel\Visual\CoffeeCount\CoffeeCount\CoffeeCount\obj\x86\Release\CoffeeCount.Properties.Resources.resources
+H:\Lehrmittel\Visual\CoffeeCount\CoffeeCount\CoffeeCount\obj\x86\Release\CoffeeCount.Settings.resources
+H:\Lehrmittel\Visual\CoffeeCount\CoffeeCount\CoffeeCount\obj\x86\Release\CoffeeCount.csproj.GenerateResource.Cache
